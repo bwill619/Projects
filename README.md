@@ -1,2 +1,2 @@
-# Course-Projects
+# Projects
 Projects/assignments completed throughout college years.
